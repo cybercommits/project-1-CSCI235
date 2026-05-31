@@ -1,6 +1,6 @@
-// Name: Ivan Ng
-// Date: 5/31/2026
-// Description: Implementation of the EulerRotation class, representing a 3D rotation using Euler angles (roll, pitch, yaw).
+// @author: Ivan Ng
+// @date: 5/31/2026
+// @brief: Implementation of the EulerRotation class, representing a 3D rotation using Euler angles (roll, pitch, yaw).
 
 #include "EulerRotation.hpp"
 

@@ -1,7 +1,7 @@
 #pragma once
-// Name: Ivan Ng
-// Date: 5/31/2026
-// Description: Declaration of the QuaternionRotation class, representing a 3D rotation using a quaternion (w, x, y, z).
+// @author: Ivan Ng
+// @date: 5/31/2026
+// @brief: Declaration of the QuaternionRotation class, representing a 3D rotation using a quaternion (w, x, y, z).
 
 #include "Rotation.hpp"
 

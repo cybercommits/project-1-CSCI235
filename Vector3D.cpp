@@ -1,6 +1,6 @@
-// Name: Ivan Ng
-// Date: 5-30-2026
-// Description: Implementation of the Vector3D class, representing a 3D vector with x, y, z components.
+// @author: Ivan Ng
+// @date: 5/30/2026
+// @brief: Implementation of the Vector3D class, representing a 3D vector with x, y, z components.
 
 #include "Vector3D.hpp"
 #include <cmath>

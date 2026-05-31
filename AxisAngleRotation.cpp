@@ -1,6 +1,6 @@
-// Name: Ivan Ng
-// Date: 5/31/2026
-// Description: Implementation of the AxisAngleRotation class, representing a 3D rotation using an axis vector and an angle.
+// @author: Ivan Ng
+// @date: 5/31/2026
+// @brief: Implementation of the AxisAngleRotation class, representing a 3D rotation using an axis vector and an angle.
 
 #include "AxisAngleRotation.hpp"
 

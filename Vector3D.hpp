@@ -1,7 +1,7 @@
 #pragma once
-// Name: Ivan Ng
-// Date: 5-30-2026
-// Description: Declaration of the Vector3D class, representing a 3D vector with x, y, z components.
+// @author: Ivan Ng
+// @date: 5/30/2026
+// @brief: Declaration of the Vector3D class, representing a 3D vector with x, y, z components.
 
 #include <string>
 

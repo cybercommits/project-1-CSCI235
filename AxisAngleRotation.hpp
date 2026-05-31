@@ -1,7 +1,7 @@
 #pragma once
-// Name: Ivan Ng
-// Date: 5/31/2026
-// Description: Declaration of the AxisAngleRotation class, representing a 3D rotation using an axis vector and an angle.
+// @author: Ivan Ng
+// @date: 5/31/2026
+// @brief: Declaration of the AxisAngleRotation class, representing a 3D rotation using an axis vector and an angle.
 
 #include "Rotation.hpp"
 #include "Vector3D.hpp"

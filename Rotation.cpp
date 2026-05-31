@@ -1,6 +1,6 @@
-// Name: Ivan Ng
-// Date: 5/31/2026
-// Description: Implementation of the base class Rotation, representing a generic 3D rotation with a type identifier.
+// @author: Ivan Ng
+// @date: 5/31/2026
+// @brief: Implementation of the base class Rotation, representing a generic 3D rotation with a type identifier.
 
 #include "Rotation.hpp"
 
